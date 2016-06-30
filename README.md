@@ -3,7 +3,6 @@ Wii/vWii Homebrew App for displaying and repairing IOS permissions
 
 # Contact
 E-Mail: christian@bormann-gs.de<br/>
-ICQ: 101540119
 
 # License
 
